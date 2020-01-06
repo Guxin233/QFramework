@@ -6,11 +6,14 @@ This is QFrameworks's Roadmap.
 
 ### v0.0.x: Workflow Explore
 
-#### v0.0.7 Saving
+#### v0.0.9 QFramework Package Manager [Latest Release]
 
-* [Currently In Development](https://github.com/liangxiegame/QFramework/projects/8)
+#### Current v0.0.14
+* PackageManager Service Improvement
+* doc complete
+* qf guidline 2019 book
 
-### v0.1.x: Guide Framework
+### v0.1.x: User Service Improvement
 
 ### v0.2.x: User Case Collection
 
@@ -22,7 +25,7 @@ This is QFrameworks's Roadmap.
 
 * Blog Article 2 Frameworks Folder
 
-### Research
+### Research (研究)
 * Guidance Framework
 * Data Binding
 * Visual Scripting,NBP,FBP
